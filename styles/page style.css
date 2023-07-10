@@ -92,3 +92,24 @@ padding-top: 190px;
     line-height: 35px;
     text-decoration-line: underline;
 }
+.img-cent{
+    display: flex;
+    padding-left: 490px;
+     gap: 200px;
+     margin-top: 50px;
+     padding-top: 100px;
+     /* padding-bottom: 100px; */
+
+}
+.img-cent-bg{
+    background-color: rgba(39, 39, 39, 0.05);
+    border-radius: 9px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.pra-padding-flx{
+    display: flex;
+    gap: 110px;
+    margin-left: 400px;
+    padding-bottom: 50px;
+}
