@@ -14,3 +14,24 @@
     font-weight: 400;
     line-height: 30px;
 }
+.button-color{
+    background-color: #E55473;
+    border-radius: 8px;
+    color: white;
+    border: none; 
+    padding: 15px;
+    font-size: 20px;
+}
+.fix-display{
+    display: flex;
+}
+.text-padding{
+padding-left: 240px;
+padding-top: 190px;
+}
+.flower-padding{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    height:850px;
+}
