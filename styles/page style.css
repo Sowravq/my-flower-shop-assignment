@@ -132,7 +132,7 @@ padding-top: 190px;
     padding-left: 390px;
     padding-top: 70px;
 }
-#off-org{
+.off-org{
     color:orangered;
 }
 .five-sec{
@@ -146,4 +146,45 @@ padding-top: 190px;
 .five-img{
     margin-left: 20px;
     box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.381) ;
+}
+.six-bg{
+    background-color: rgba(167, 33, 98, 0.15);
+    margin-top: 90px;
+    border-radius: 0px 0px 230px 230px;
+    margin-left: 20px;
+    box-shadow: 8px 8px 17px black;
+    margin-right: 20px;
+}
+.six-flx{
+    display: flex;
+}
+.six-padds{
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.six-imgs{
+    padding-top: 40px;
+    padding-left: 100px;
+}
+.seven-bg{
+    background-image: url('../images/Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.seven-cen{
+     text-align: center;
+     padding-top: 170px;
+     padding-bottom: 120px;
+}
+.size{
+    font-size: 30px;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+}
+.margin-lft{
+    margin-left: 10px;
 }
