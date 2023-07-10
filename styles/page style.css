@@ -37,6 +37,7 @@ padding-top: 190px;
 }
 .tops-margin{
     margin-top: 100px;
+    background-color: white;
 }
 .head-pra{
     text-align: center;
@@ -133,4 +134,16 @@ padding-top: 190px;
 }
 #off-org{
     color:orangered;
+}
+.five-sec{
+    text-align: center;
+}
+.five-padd{
+    padding-left: 190px;
+    padding-right: 100px;
+    padding-top: 40px;
+}
+.five-img{
+    margin-left: 20px;
+    box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.381) ;
 }
