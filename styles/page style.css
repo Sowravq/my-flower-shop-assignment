@@ -188,3 +188,29 @@ padding-top: 190px;
 .margin-lft{
     margin-left: 10px;
 }
+.eight-bg{
+    background-color: black;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.eight-center{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+.pra-col{
+    color: white;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.prag-color{
+    color: rgba(255, 255, 255, 0.475);
+}
+.eight-head{
+color: #FFFFFF;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+}
